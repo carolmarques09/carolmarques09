@@ -3,16 +3,16 @@ Sou Carolina Marques, estudante de Ciências da Computação.
 Sou nerd, swfitie, adoro ler, desenhar, cantar, jogar, entre outras coisas...
 
 Conhecimento em:
-HTML|CSS|JavaScript|Python
+HTML | CSS | JavaScript | Python
 
 Idiomas:
-Português (nativa)
-Inglês (avançado)
-Japonês (intermediário-avançado)
-Coreano (iniciante-intermediário)
+Português (nativa),
+Inglês (avançado),
+Japonês (intermediário-avançado),
+Coreano (iniciante-intermediário),
 Italiano (intermediário)
 
 Áreas que pretendo ingressar:
-Desenvolvimento de Jogos
-Tecnologia Assistiva
+Desenvolvimento de Jogos,
+Tecnologia Assistiva,
 IA Generativa
