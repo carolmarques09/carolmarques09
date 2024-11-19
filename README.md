@@ -3,7 +3,7 @@ Sou Carolina Marques, estudante de Ciências da Computação.
 Sou nerd, swiftie, adoro ler, desenhar, cantar, jogar, entre outras coisas...
 
 Conhecimento em:
-HTML | CSS | JavaScript | Java | Python 
+HTML | CSS | JavaScript | Java | Python | PostgreSQL
 
 Idiomas:
 Português (nativa),
