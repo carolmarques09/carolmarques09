@@ -1,6 +1,5 @@
 Olá, bem-vindo(a) ao meu perfil!
 Sou Carolina Marques, estudante de Ciências da Computação da UNIESP.
-Sou nerd, swiftie, adoro ler, desenhar, cantar, jogar, entre outras coisas...
 
 Conhecimento em:
 HTML | CSS | JavaScript | Java | Python | PostgreSQL
@@ -16,4 +15,4 @@ Italiano (intermediário)
 Desenvolvimento de Jogos |
 Tecnologia Assistiva |
 IA Generativa |
-Computação Forense
+Back-end
