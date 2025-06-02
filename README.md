@@ -2,7 +2,7 @@ Olá, bem-vindo(a) ao meu perfil!
 Sou Carolina Marques, estudante de Ciências da Computação da UNIESP.
 
 Conhecimento em:
-HTML | CSS | JavaScript | Java | Python | PostgreSQL | MySQL | Spring Framework
+HTML | CSS | JavaScript | Java | Python | PostgreSQL | MySQL | SQLServer | Spring Framework
 
 Idiomas:
 Português (nativa) |
