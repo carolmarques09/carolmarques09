@@ -1,5 +1,4 @@
-Olá, bem-vindo(a) ao meu perfil!
-Sou Carolina Marques, estudante de Ciências da Computação da UNIESP.
+![Header](./github-header-image.png)
 
 Conhecimento em:
 HTML | CSS | JavaScript | Java | Python | PostgreSQL | MySQL | SQLServer | Spring Framework
