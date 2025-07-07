@@ -1,26 +1,12 @@
-![Header](./github-header-image.png)
-
+Sou Carolina Marques, estudante de Ciências da Computação!
 
 Conhecimento em:
-<table align="center"> <tr>
-<td align="center">
-</td>
-<img style="width: 100%; max-width: 300px;" src="https://github.com/user-attachments/assets/56735c1b-a91d-4440-8dd7-b9276446004" alt="java-coffee-cup-logo"/> <br>Java
-
-<td align="center">
-</tr>
-</table>
-<img style="width: 90%; max-width: 300px;" src="https://github.com/user-attachments/assets/c8a5f3a6-9e44-4551-aa95-2311c1422167" alt="cplus-logo"/> <br>C
-</td>
-
-<td align="center">
-<img style="width: 90%; max-width: 300px;" src="https://github.com/user-attachments/assets/b5332467-7474-46e6-85c8-635e4e5c1849" alt="javascript-logo"/>
-<br>Javascript
-</td>
-
-<td align="center">
-<img style="width: 90%; max-width: 300px;" src="https://github.com/user-attachments/assets/0541497-0364-47b2-99b8-fbe01086ecfe" alt="sql-logo"/> <br>SQL
-</td>
+Python
+Java
+JavaScript
+SQL
+Spring Framework
+Git/GitHub
 
 Idiomas:
 Português (nativa) |
