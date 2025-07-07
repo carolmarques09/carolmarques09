@@ -1,11 +1,11 @@
 Sou Carolina Marques, estudante de Ciências da Computação!
 
 Conhecimento em:
-Python
-Java
-JavaScript
-SQL
-Spring Framework
+Python |
+Java |
+JavaScript |
+SQL |
+Spring Framework |
 Git/GitHub
 
 Idiomas:
