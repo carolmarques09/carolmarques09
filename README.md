@@ -6,11 +6,13 @@ Java |
 JavaScript |
 SQL |
 Spring Framework |
-Git/GitHub
+Git/GitHub |
+React.js |
+C++
 
 Idiomas:
 Português (nativa) |
-Inglês (C1/avançado) |
+Inglês (C1/avançado/fluente) |
 Japonês (N3/intermediário-avançado) |
 Coreano (iniciante-intermediário) |
 Italiano (B1/intermediário)
