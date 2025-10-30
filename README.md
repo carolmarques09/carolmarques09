@@ -1,6 +1,8 @@
 Sou Carolina Marques, estudante de Ciências da Computação!
 
 Conhecimento em:
+HTML | 
+CSS |
 Python |
 Java |
 JavaScript |
