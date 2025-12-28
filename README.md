@@ -1,26 +1,24 @@
-Sou Carolina Marques, estudante de Ciências da Computação!
+# 👋 Olá, eu sou Carolina Marques
 
-Conhecimento em:
-HTML | 
-CSS |
-Python |
-Java |
-JavaScript |
-SQL |
-Spring Framework |
-Git/GitHub |
-React.js |
-C++
+🎓 Estudante de Ciências da Computação  
+💡 Apaixonada por Back-end, IA, Cybersegurança e Tecnologia Assistiva  
 
-Idiomas:
-Português (nativa) |
-Inglês (C1/avançado/fluente) |
-Japonês (N3/intermediário-avançado) |
-Coreano (iniciante-intermediário) |
-Italiano (B1/intermediário)
+## 🚀 Tecnologias
+- Linguagens: Java, Python, JavaScript, C++
+- Back-end: Spring Boot, SQL
+- Front-end: HTML, CSS, React
+- Ferramentas: Git, GitHub
 
-Áreas da tecnologia que mais admiro:
-Desenvolvimento de Jogos |
-Tecnologia Assistiva |
-IA Generativa |
-Back-end
+## 🌍 Idiomas
+- Português: Nativo
+- Inglês: C1
+- Japonês: N3
+- Italiano: B1
+- Coreano: Básico–Intermediário
+
+## 🎯 Interesses
+- IA Generativa
+- Desenvolvimento de Jogos
+- Tecnologia Assistiva
+- Back-end
+- Cybersec
