@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Carolina Marques
 
 🎓 Estudante de Ciências da Computação  
-💡 Apaixonada por Back-end, IA, Cybersegurança e Tecnologia Assistiva  
+💡 Apaixonada por Back-end, IA, Cybersegurança, Gamedev e Tecnologia Assistiva  
 
 ## 🚀 Tecnologias
 - Linguagens: Java, Python, JavaScript, C++
