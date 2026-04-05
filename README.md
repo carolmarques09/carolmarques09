@@ -2,7 +2,6 @@
 
 🎓 Estudante de Ciências da Computação  
 💡 Apaixonada por Back-end, IA, Cybersegurança, Gamedev e Tecnologia Assistiva
-🎓 Liga acadêmica de Cybersegurança da WiE - UFPB
 
 ## 🚀 Tecnologias
 - Linguagens: Java, Python, JavaScript, C++
