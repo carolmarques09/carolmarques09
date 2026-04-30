@@ -4,7 +4,7 @@
 💡 Apaixonada por Back-end, IA, Cybersegurança, Gamedev e Tecnologia Assistiva
 
 ## 🚀 Tecnologias
-- Linguagens: Java, Python, JavaScript, C++
+- Linguagens: Java, Python, JavaScript, C++, Ruby
 - Back-end: Spring Boot, SQL
 - Front-end: HTML, CSS, React
 - Ferramentas: Git, GitHub
